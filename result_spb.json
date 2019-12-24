@@ -1,0 +1,1853 @@
+{
+    "keywords": "python developer",
+    "area": "Санкт-Петербург",
+    "count": 1243,
+    "salary_avg": 89269.37,
+    "requirements": [
+        {
+            "name": "Python",
+            "count": 171,
+            "percent": "13.76 %"
+        },
+        {
+            "name": "Linux",
+            "count": 67,
+            "percent": "5.39 %"
+        },
+        {
+            "name": "Git",
+            "count": 45,
+            "percent": "3.62 %"
+        },
+        {
+            "name": "SQL",
+            "count": 39,
+            "percent": "3.14 %"
+        },
+        {
+            "name": "PostgreSQL",
+            "count": 38,
+            "percent": "3.06 %"
+        },
+        {
+            "name": "Java",
+            "count": 35,
+            "percent": "2.82 %"
+        },
+        {
+            "name": "C++",
+            "count": 35,
+            "percent": "2.82 %"
+        },
+        {
+            "name": "Английский язык",
+            "count": 26,
+            "percent": "2.09 %"
+        },
+        {
+            "name": "Django Framework",
+            "count": 25,
+            "percent": "2.01 %"
+        },
+        {
+            "name": "MySQL",
+            "count": 22,
+            "percent": "1.77 %"
+        },
+        {
+            "name": "JavaScript",
+            "count": 21,
+            "percent": "1.69 %"
+        },
+        {
+            "name": "MongoDB",
+            "count": 16,
+            "percent": "1.29 %"
+        },
+        {
+            "name": "Data Mining",
+            "count": 14,
+            "percent": "1.13 %"
+        },
+        {
+            "name": "Node.js",
+            "count": 13,
+            "percent": "1.05 %"
+        },
+        {
+            "name": "ООП",
+            "count": 12,
+            "percent": "0.97 %"
+        },
+        {
+            "name": "Docker",
+            "count": 11,
+            "percent": "0.88 %"
+        },
+        {
+            "name": "PHP",
+            "count": 11,
+            "percent": "0.88 %"
+        },
+        {
+            "name": "Machine Learning",
+            "count": 11,
+            "percent": "0.88 %"
+        },
+        {
+            "name": "Redis",
+            "count": 9,
+            "percent": "0.72 %"
+        },
+        {
+            "name": "CSS",
+            "count": 9,
+            "percent": "0.72 %"
+        },
+        {
+            "name": "C/C++",
+            "count": 9,
+            "percent": "0.72 %"
+        },
+        {
+            "name": "Big Data",
+            "count": 9,
+            "percent": "0.72 %"
+        },
+        {
+            "name": "RabbitMQ",
+            "count": 9,
+            "percent": "0.72 %"
+        },
+        {
+            "name": "QA",
+            "count": 9,
+            "percent": "0.72 %"
+        },
+        {
+            "name": "HTML",
+            "count": 8,
+            "percent": "0.64 %"
+        },
+        {
+            "name": "Nginx",
+            "count": 8,
+            "percent": "0.64 %"
+        },
+        {
+            "name": "C#",
+            "count": 8,
+            "percent": "0.64 %"
+        },
+        {
+            "name": "Bash",
+            "count": 8,
+            "percent": "0.64 %"
+        },
+        {
+            "name": "Flask",
+            "count": 7,
+            "percent": "0.56 %"
+        },
+        {
+            "name": "NoSQL",
+            "count": 7,
+            "percent": "0.56 %"
+        },
+        {
+            "name": "SCALA",
+            "count": 7,
+            "percent": "0.56 %"
+        },
+        {
+            "name": "Тестирование",
+            "count": 7,
+            "percent": "0.56 %"
+        },
+        {
+            "name": "Data Analysis",
+            "count": 7,
+            "percent": "0.56 %"
+        },
+        {
+            "name": "Golang",
+            "count": 6,
+            "percent": "0.48 %"
+        },
+        {
+            "name": "Kafka",
+            "count": 6,
+            "percent": "0.48 %"
+        },
+        {
+            "name": "Deep Learning",
+            "count": 6,
+            "percent": "0.48 %"
+        },
+        {
+            "name": "TensorFlow",
+            "count": 6,
+            "percent": "0.48 %"
+        },
+        {
+            "name": "SVN",
+            "count": 5,
+            "percent": "0.4 %"
+        },
+        {
+            "name": "jQuery",
+            "count": 5,
+            "percent": "0.4 %"
+        },
+        {
+            "name": "Jenkins",
+            "count": 5,
+            "percent": "0.4 %"
+        },
+        {
+            "name": "MATLAB",
+            "count": 5,
+            "percent": "0.4 %"
+        },
+        {
+            "name": "Atlassian Jira",
+            "count": 5,
+            "percent": "0.4 %"
+        },
+        {
+            "name": "Анализ данных",
+            "count": 4,
+            "percent": "0.32 %"
+        },
+        {
+            "name": "Qt",
+            "count": 4,
+            "percent": "0.32 %"
+        },
+        {
+            "name": "API",
+            "count": 4,
+            "percent": "0.32 %"
+        },
+        {
+            "name": "Go",
+            "count": 4,
+            "percent": "0.32 %"
+        },
+        {
+            "name": "Hadoop",
+            "count": 4,
+            "percent": "0.32 %"
+        },
+        {
+            "name": "Spark",
+            "count": 4,
+            "percent": "0.32 %"
+        },
+        {
+            "name": "Функциональное тестирование",
+            "count": 4,
+            "percent": "0.32 %"
+        },
+        {
+            "name": "OpenCV",
+            "count": 4,
+            "percent": "0.32 %"
+        },
+        {
+            "name": "Математическая статистика",
+            "count": 4,
+            "percent": "0.32 %"
+        },
+        {
+            "name": "PyTorch",
+            "count": 4,
+            "percent": "0.32 %"
+        },
+        {
+            "name": "Machine learning",
+            "count": 4,
+            "percent": "0.32 %"
+        },
+        {
+            "name": "NLP",
+            "count": 4,
+            "percent": "0.32 %"
+        },
+        {
+            "name": "Selenium IDE",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "HTML5",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "CSS3",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "REST",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "Unix",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "Разработка ПО",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "Kubernetes",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "Управление проектами",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "Symfony",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "OpenGL",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "Работа в команде",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "Team management",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "AngularJS",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "TCP/IP",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "Cassandra",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "Android",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "machine learning",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "ORM",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "Databases",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "Business English",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "MS SQL",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "CI/CD",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "Data Science",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "Tensorflow",
+            "count": 3,
+            "percent": "0.24 %"
+        },
+        {
+            "name": "Аналитическое мышление",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "ElasticSearch",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "ClickHouse",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Celery",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "PEP8",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "MS SQL Server",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "DevOps",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "STL",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Kotlin",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Spring Framework",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Tornado",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Laravel",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "PHPUnit",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Bootstrap",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "TypeScript",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "ETL",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Pandas",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "React",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Angular",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Ruby",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "С#",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Borland Delphi",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "PL-SQL",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "iOS",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Deep learning",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "react",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "MS PowerPoint",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "MQTT",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Аналитические исследования",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Ansible",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Networking",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Математический анализ",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "computer vision",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "deep learning",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "JS",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Keras",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "neural networks",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Тестирование пользовательского интерфейса",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Базы данных",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "GitLab",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Yii",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Oracle Pl/SQL",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Robot Framework",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Веб-программирование",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Data science",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Theano",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Caffe",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Нейронные сети",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "AWS",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "R",
+            "count": 2,
+            "percent": "0.16 %"
+        },
+        {
+            "name": "Интернет-реклама",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Load Testing",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Smoke Testing",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "back-end",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "vue",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Ajax",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Tableau",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "informix",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "JSON API",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "XML",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Octopus",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "TeamCity",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Stash",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "SIP",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "VoIP",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "TDD",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Asyncio",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "GDAL",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "GEOS",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Proj4",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "QGIS",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Software Development",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "CS:GO",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "DOTA2",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Киберспорт",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Scrum",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Frontend",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "DNS",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Bazel",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "HDFS",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Devops",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Vue",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Администрирование серверов Linux",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Software Architecture",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "ReactJS",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Информационная безопасность",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Сетевые технологии",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Планирование карьеры",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Проведение опросов",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "MS Word",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Ruby On Rails",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "RSpec",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Perl",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "ASP.NET",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "MS Visual Studio",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Octave",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "MS Visual C++",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Windows 7",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Objective-C",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "swift",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "SDK",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "datascience",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "tensorflow",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "SaaS",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Регресcионное тестирование",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "backend",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "posgresql",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Linux/Unix",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "ZMQ",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Gitlab CI",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "swagger",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "RobotFramework",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Lua",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Tarantool",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "GraphQL",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Управление командой",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Zabbix",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Unreal Engine",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "VPN",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Couchbase",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "ADP Human Resources",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "GraphQL API",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Windows Server",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Product Management",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Business Development",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "L3 Technical Support",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "block storage",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "replication",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "vSphere",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "VMware",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Hypervisor",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "reinforcement learning",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Agile",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "автоматизация тестирования",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "CI",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "CD",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Pytorch",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Microsoft Power BI",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "U-SQL",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Statistical Analysis System",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "RI",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Puppet",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "ELK",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "системный архитектор",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Senior PHP-developer",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "English",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Automation",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Backend",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Airflow",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "DWH",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "vertica",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "kafka",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "aerospike",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Android SDK",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "ручное тестирование",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "MS Office",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Web Services",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Programming",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Программирование",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Microsoft Azure",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": ".NET Framework",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Microservices",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "celery",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "NumPy",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "asyncio",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Typing",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "SQLite",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "беспилот",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "серверные комп",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Rust",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "manual testing",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "z/OS",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Мобильность",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Maria DB",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Scripting",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Shell",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Github",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Разработка автоматизаций",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "automation development",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "software testing",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "development of validation methods",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "testing",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "verification",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "SOAP",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Test case",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Проведение тестирований",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Customer Support",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Cyber Security",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "OWASP",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Malware Research",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Selenium",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Web Application Development",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Shell Scripting",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "docker",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Openshift",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Hive",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Google Cloud",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "data pipeline",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Presto",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Algorithms",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Analytical skills",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "HFT",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "natural language processing",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "data science",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Статистический анализ",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "crypto",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "цифровая схемотехника",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Схемотехника электронного оборудования",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Синтез речи",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "нейронный сети",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "synthesis",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "speech synthesis",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Распознавание речи",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Postgres/MySQL",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Python 2/3",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "prometheus",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Работа на выставках",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "SQLAlchemy",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "RESTful",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Машинное обучение",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "OpenCL",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "CUDA",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Azure",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "DRF",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Jira",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "MVC",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Atlassian Confluence",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Kibana",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Sentry",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Unit Testing",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "YOLO",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Less",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Sass",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Gulp",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Webpack",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "PostCSS",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "TweenMax",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Mercurial",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Ubuntu",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Gluster",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Swarm",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Data visualisation",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Cython",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Поиск информации в интернет",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Teambuilding",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "ЦОС",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "webdriver",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Time Series DB",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "REST API",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "SNA",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Computer vision",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Information retrieval",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "ml",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "QA Automation",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Latex",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Trading",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "предсказательные модели",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "LTV",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Data Scientist",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "машинное обучение",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "алгоритмы оптимизации",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "calibration",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "6DoF",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "camera",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "lidar",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "GNSS",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "UI",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "kotlin",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Erlang",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "OTP",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Convolutional Neural Networks",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "CNN",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "семантическая сегментация",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Сверточные сети",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "исследования",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Research",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Statistica",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Data Mining: Statistics",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Turbo Pascal",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "websocket",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "udp",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "conan",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Серверное программирование",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "VBA",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Project management",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Leadership Development",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "ORACLE",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "WPF",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "LINQ",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Entity Framework",
+            "count": 1,
+            "percent": "0.08 %"
+        },
+        {
+            "name": "Windows Forms",
+            "count": 1,
+            "percent": "0.08 %"
+        }
+    ]
+}
